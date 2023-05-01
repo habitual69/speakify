@@ -47,7 +47,7 @@ If you'd like to contribute to Speakify, please fork the repository, make your c
 
 ## Credits
 
-Speakify was created by [Your Name Here]. The app uses Edge TTS for text-to-speech conversion.
+Speakify was created by [habitual69]. The app uses Edge TTS for text-to-speech conversion.
 
 ## License
 
