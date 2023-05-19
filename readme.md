@@ -3,7 +3,7 @@
 Speakify is a web application that uses Edge TTS to convert text to speech using a variety of voices.
 
 # Demo Site
-[Speakify](https://speakify.vpms.xyz).
+[Speakify](https://speakify.eu.org).
 
 ## Installation
 
