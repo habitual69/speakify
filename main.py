@@ -8,9 +8,6 @@ from fastapi.responses import FileResponse
 import random
 import tempfile
 
-output = "static/audio"
-if not os.path.exists(output):
-    os.mkdir(output)
 
 app = FastAPI(title="Speakify")
 app.mount("/static", StaticFiles(directory="static"), name="static")
