@@ -6,11 +6,14 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import FileResponse
 import random
-import tempfile
 
+
+output = "/tmp"
+if not os.path.exists(output):
+    os.mkdir(output)
 
 app = FastAPI(title="Speakify")
-app.mount("/static", StaticFiles(directory="static"), name="static")
+app.mount("/tmp", StaticFiles(directory="/tmp"), name="temp")
 templates = Jinja2Templates(directory="templates")
 
 voices = [
@@ -66,21 +69,15 @@ voices = [
     "te-IN-SaanviNeural",
 ]
 
-
 async def _convert_text_to_speech(text: str, voice: str) -> str:
-    id = random.randint(1, 1000000)
+    id=random.randint(1,1000000)
     output_file = f"{voice}{id}.mp3"
-    
     try:
-        with tempfile.TemporaryDirectory() as temp_dir:
-            communicate = edge_tts.Communicate(text, voice)
-            await communicate.save(os.path.join(temp_dir, output_file))
-            fullpath=os.path.join(temp_dir, output_file)
-            return fullpath
+        communicate = edge_tts.Communicate(text, voice)
+        await communicate.save(os.path.join(output, output_file))
+        return output_file
     except Exception as e:
         return {"error": str(e)}
-
-
 
 @app.get("/")
 def read_root(request: Request):
