@@ -1,15 +1,14 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "main.py",
-        "use": "@now/python",
-        "config": { "maxLambdaSize": "50mb" }
-      }
-    ],
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/.*", "dest": "main.py" }
-    ]
-  }
-  
+  "version": 2,
+  "builds": [
+    {
+      "src": "main.py",
+      "use": "@now/python",
+      "config": { "maxLambdaSize": "50mb", "runtime": "python3.9" }
+    }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "main.py" }
+  ]
+}
