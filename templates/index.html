@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Text-to-Speech Conversion</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body class="bg-blue-900 text-gray-800 min-h-screen flex flex-col">
     <div class="flex justify-center items-center bg-blue-800 text-white py-4">
@@ -81,11 +82,28 @@
                 Convert to Speech
             </button>
         </form>
-        <p>{{ output_file }}</p>
-        <audio controls class="mt-4 w-full">
-            <source src="/audio/{{ output_file }}" type="audio/mpeg">
-            Your browser does not support the audio element.
-        </audio>
+        <div class='container mx-auto mt-4 flex flex-col items-center'>
+            {% if output_file %}
+            <div class="flex items-center justify-center">
+                <a href="/audio/{{ output_file }}">
+                    <i class="fa-solid fa-download text-4xl hover:text-[#1f2335]" style="color: #1f2335;"></i>
+                </a>
+            </div>
+            <div class="flex items-center justify-center mt-4 w-full">
+                <audio controls class="w-1/2">
+                    <source src="/audio/{{ output_file | urlencode }}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+            {% endif %}
+        </div>
+        
+        <div>
+            <h2 class="text-lg font-medium text-gray-700">Instructions:</h2>
+            <p class="text-gray-600">Select a voice from the dropdown list and enter the text you want to convert to speech. Click the "Convert to Speech" button to generate the audio output.</p>
+
+        </div>
+               
     </div>
 
     <footer class="mt-auto py-4 bg-blue-800 text-white text-center w-full">

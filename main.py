@@ -14,6 +14,7 @@ if not os.path.exists(output):
 
 app = FastAPI(title="Speakify")
 app.mount("/tmp", StaticFiles(directory="/tmp"), name="temp")
+app.mount ("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
 voices = [
