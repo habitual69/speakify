@@ -2,6 +2,9 @@
 
 Speakify is a web application that uses Edge TTS to convert text to speech using a variety of voices.
 
+# Demo Site
+[Speakify](https://speakify.eu.org).
+
 ## Installation
 
 To run the Speakify app locally, you'll need to have Python 3.9 and pip installed on your machine. Clone the project repository, navigate to the project folder, and install the required Python packages by running:
@@ -44,7 +47,7 @@ If you'd like to contribute to Speakify, please fork the repository, make your c
 
 ## Credits
 
-Speakify was created by [Your Name Here]. The app uses Edge TTS for text-to-speech conversion.
+Speakify was created by [habitual69]. The app uses Edge TTS for text-to-speech conversion.
 
 ## License
 
