@@ -1,11 +1,13 @@
 import asyncio
 import edge_tts
 import os
+import json
+import random
 from fastapi import FastAPI, Form, Request
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import FileResponse
-import random
+from fastapi.responses import HTMLResponse
 
 
 output = "/tmp"
@@ -17,58 +19,11 @@ app.mount("/tmp", StaticFiles(directory="/tmp"), name="temp")
 app.mount ("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
-voices = [
-    "en-AU-NatashaNeural",
-    "en-AU-WilliamNeural",
-    "en-CA-ClaraNeural",
-    "en-CA-LiamNeural",
-    "en-GB-LibbyNeural",
-    "en-GB-MaisieNeural",
-    "en-GB-RyanNeural",
-    "en-GB-SoniaNeural",
-    "en-GB-ThomasNeural",
-    "en-HK-SamNeural",
-    "en-HK-YanNeural",
-    "en-IE-ConnorNeural",
-    "en-IE-EmilyNeural",
-    "en-IN-NeerjaExpressiveNeural",
-    "en-IN-NeerjaNeural",
-    "en-IN-PrabhatNeural",
-    "en-US-AriaNeural",
-    "en-US-ChristopherNeural",
-    "en-US-EricNeural",
-    "en-US-GuyNeural",
-    "en-US-JennyNeural",
-    "en-US-MichelleNeural",
-    "en-US-RogerNeural",
-    "en-US-SteffanNeural",
-    "en-ZA-LeahNeural",
-    "hi-IN-MadhurNeural",
-    "hi-IN-SwaraNeural",
-    "bn-BD-PradeepNeural",
-    "bn-IN-BashkarNeural",
-    "bn-IN-TanishaaNeural",
-    "gu-IN-AaravNeural",
-    "gu-IN-PranavNeural",
-    "gu-IN-SaanviNeural",
-    "kn-IN-AaravNeural",
-    "kn-IN-PranavNeural",
-    "kn-IN-SaanviNeural",
-    "ml-IN-AaravNeural",
-    "ml-IN-PranavNeural",
-    "ml-IN-SaanviNeural",
-    "mr-IN-AaravNeural",
-    "mr-IN-PranavNeural",
-    "mr-IN-SaanviNeural",
-    "ta-IN-AaravNeural",
-    "ta-IN-PallaviNeural",
-    "ta-IN-PranavNeural",
-    "ta-IN-SaanviNeural",
-    "te-IN-AaravNeural",
-    "te-IN-PallaviNeural",
-    "te-IN-PranavNeural",
-    "te-IN-SaanviNeural",
-]
+# Load JSON data
+with open('voices.json') as f:
+    voice_data = json.load(f)
+# Extract voice options from JSON data
+voices = [entry['voice'] for entry in voice_data]
 
 async def _convert_text_to_speech(text: str, voice: str) -> str:
     id=random.randint(1,1000000)
@@ -80,9 +35,9 @@ async def _convert_text_to_speech(text: str, voice: str) -> str:
     except Exception as e:
         return {"error": str(e)}
 
-@app.get("/")
-def read_root(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request, "voices": voices})
+@app.get("/", response_class=HTMLResponse)
+async def index(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request, "voice_data": voice_data})
 
 @app.post("/convert")
 async def convert_text(request: Request, text: str = Form(...), voice: str = Form(...)):
@@ -91,7 +46,7 @@ async def convert_text(request: Request, text: str = Form(...), voice: str = For
     output_file = await _convert_text_to_speech(text, voice)
     if "error" in output_file:
         return {"error": output_file["error"]}
-    return templates.TemplateResponse("index.html", {"request": request, "output_file": output_file})
+    return templates.TemplateResponse("index.html", {"request": request, "output_file": output_file,"voice_data": voice_data})
 
 @app.get("/audio/{output_file}")
 async def get_audio(output_file: str):

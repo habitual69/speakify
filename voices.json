@@ -1,0 +1,2032 @@
+[
+    {
+        "voice":"af-ZA-AdriNeural",
+        "artist":"Adri Neural",
+        "gender":"Female",
+        "region":"South Africa",
+        "Language":"Afrikaans"
+     },
+    {
+       "voice":"af-ZA-WillemNeural",
+       "artist":"Willem Neural",
+       "gender":"Male",
+       "region":"South Africa",
+       "Language":"Afrikaans"
+    },
+    {
+       "voice":"am-ET-AmehaNeural",
+       "artist":"Ameha Neural",
+       "gender":"Male",
+       "region":"Ethiopia",
+       "Language":"Amharic"
+    },
+    {
+       "voice":"am-ET-MekdesNeural",
+       "artist":"Mekdes Neural",
+       "gender":"Female",
+       "region":"Ethiopia",
+       "Language":"Amharic"
+    },
+    {
+       "voice":"ar-AE-FatimaNeural",
+       "artist":"Fatima Neural",
+       "gender":"Female",
+       "region":"United Arab Emirates",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-AE-HamdanNeural",
+       "artist":"Hamdan Neural",
+       "gender":"Male",
+       "region":"United Arab Emirates",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-BH-AliNeural",
+       "artist":"Ali Neural",
+       "gender":"Male",
+       "region":"Bahrain",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-BH-LailaNeural",
+       "artist":"Laila Neural",
+       "gender":"Female",
+       "region":"Bahrain",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-DZ-AminaNeural",
+       "artist":"Amina Neural",
+       "gender":"Female",
+       "region":"Algeria",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-DZ-IsmaelNeural",
+       "artist":"Ismael Neural",
+       "gender":"Male",
+       "region":"Algeria",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-EG-SalmaNeural",
+       "artist":"Salma Neural",
+       "gender":"Female",
+       "region":"Egypt",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-EG-ShakirNeural",
+       "artist":"Shakir Neural",
+       "gender":"Male",
+       "region":"Egypt",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-IQ-BasselNeural",
+       "artist":"Bassel Neural",
+       "gender":"Male",
+       "region":"Iraq",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-IQ-RanaNeural",
+       "artist":"Rana Neural",
+       "gender":"Female",
+       "region":"Iraq",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-JO-SanaNeural",
+       "artist":"Sana Neural",
+       "gender":"Female",
+       "region":"Jordan",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-JO-TaimNeural",
+       "artist":"Taim Neural",
+       "gender":"Male",
+       "region":"Jordan",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-KW-FahedNeural",
+       "artist":"Fahed Neural",
+       "gender":"Male",
+       "region":"Kuwait",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-KW-NouraNeural",
+       "artist":"Noura Neural",
+       "gender":"Female",
+       "region":"Kuwait",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-LB-LaylaNeural",
+       "artist":"Layla Neural",
+       "gender":"Female",
+       "region":"Lebanon",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-LB-RamiNeural",
+       "artist":"Rami Neural",
+       "gender":"Male",
+       "region":"Lebanon",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-LY-ImanNeural",
+       "artist":"Iman Neural",
+       "gender":"Female",
+       "region":"Libya",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-LY-OmarNeural",
+       "artist":"Omar Neural",
+       "gender":"Male",
+       "region":"Libya",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-MA-JamalNeural",
+       "artist":"Jamal Neural",
+       "gender":"Male",
+       "region":"Morocco",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-MA-MounaNeural",
+       "artist":"Mouna Neural",
+       "gender":"Female",
+       "region":"Morocco",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-OM-AbdullahNeural",
+       "artist":"Abdullah Neural",
+       "gender":"Male",
+       "region":"Oman",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-OM-AyshaNeural",
+       "artist":"Aysha Neural",
+       "gender":"Female",
+       "region":"Oman",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-QA-AmalNeural",
+       "artist":"Amal Neural",
+       "gender":"Female",
+       "region":"Qatar",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-QA-MoazNeural",
+       "artist":"Moaz Neural",
+       "gender":"Male",
+       "region":"Qatar",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-SA-HamedNeural",
+       "artist":"Hamed Neural",
+       "gender":"Male",
+       "region":"Saudi Arabia",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-SA-ZariyahNeural",
+       "artist":"Zariyah Neural",
+       "gender":"Female",
+       "region":"Saudi Arabia",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-SY-AmanyNeural",
+       "artist":"Amany Neural",
+       "gender":"Female",
+       "region":"Syria",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-SY-LaithNeural",
+       "artist":"Laith Neural",
+       "gender":"Male",
+       "region":"Syria",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-TN-HediNeural",
+       "artist":"Hedi Neural",
+       "gender":"Male",
+       "region":"Tunisia",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-TN-ReemNeural",
+       "artist":"Reem Neural",
+       "gender":"Female",
+       "region":"Tunisia",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-YE-MaryamNeural",
+       "artist":"Maryam Neural",
+       "gender":"Female",
+       "region":"Yemen",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"ar-YE-SalehNeural",
+       "artist":"Saleh Neural",
+       "gender":"Male",
+       "region":"Yemen",
+       "Language":"Arabic"
+    },
+    {
+       "voice":"az-AZ-BabekNeural",
+       "artist":"Babek Neural",
+       "gender":"Male",
+       "region":"Azerbaijan",
+       "Language":"Azerbaijani"
+    },
+    {
+       "voice":"az-AZ-BanuNeural",
+       "artist":"Banu Neural",
+       "gender":"Female",
+       "region":"Azerbaijan",
+       "Language":"Azerbaijani"
+    },
+    {
+       "voice":"bg-BG-BorislavNeural",
+       "artist":"Borislav Neural",
+       "gender":"Male",
+       "region":"Bulgaria",
+       "Language":"Bulgarian"
+    },
+    {
+       "voice":"bg-BG-KalinaNeural",
+       "artist":"Kalina Neural",
+       "gender":"Female",
+       "region":"Bulgaria",
+       "Language":"Bulgarian"
+    },
+    {
+       "voice":"bn-BD-NabanitaNeural",
+       "artist":"Nabanita Neural",
+       "gender":"Female",
+       "region":"Bangladesh",
+       "Language":"Bengali"
+    },
+    {
+       "voice":"bn-BD-PradeepNeural",
+       "artist":"Pradeep Neural",
+       "gender":"Male",
+       "region":"Bangladesh",
+       "Language":"Bengali"
+    },
+    {
+       "voice":"bn-IN-BashkarNeural",
+       "artist":"Bashkar Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Bengali"
+    },
+    {
+       "voice":"bn-IN-TanishaaNeural",
+       "artist":"Tanishaa Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Bengali"
+    },
+    {
+       "voice":"bs-BA-GoranNeural",
+       "artist":"Goran Neural",
+       "gender":"Male",
+       "region":"Bosnia and Herzegovina",
+       "Language":"Bosnian"
+    },
+    {
+       "voice":"bs-BA-VesnaNeural",
+       "artist":"Vesna Neural",
+       "gender":"Female",
+       "region":"Bosnia and Herzegovina",
+       "Language":"Bosnian"
+    },
+    {
+       "voice":"ca-ES-EnricNeural",
+       "artist":"Enric Neural",
+       "gender":"Male",
+       "region":"Spain",
+       "Language":"Catalan"
+    },
+    {
+       "voice":"ca-ES-JoanaNeural",
+       "artist":"Joana Neural",
+       "gender":"Female",
+       "region":"Spain",
+       "Language":"Catalan"
+    },
+    {
+        "voice": "en-AU-NatashaNeural",
+        "gender": "Female",
+        "artist": "Natasha Neural",
+        "region": "Australia",
+        "Language": "English (Australian)"
+      },
+      {
+        "voice": "en-AU-WilliamNeural",
+        "gender": "Male",
+        "artist": "William Neural",
+        "region": "Australia",
+        "Language": "English (Australian)"
+      },
+      {
+        "voice": "en-CA-ClaraNeural",
+        "gender": "Female",
+        "artist": "Clara Neural",
+        "region": "Canada",
+        "Language": "English (Canadian)"
+      },
+      {
+        "voice": "en-CA-LiamNeural",
+        "gender": "Male",
+        "artist": "Liam Neural",
+        "region": "Canada",
+        "Language": "English (Canadian)"
+      },
+      {
+        "voice": "en-GB-LibbyNeural",
+        "gender": "Female",
+        "artist": "Libby Neural",
+        "region": "United Kingdom",
+        "Language": "English (British)"
+      },
+      {
+        "voice": "en-GB-MaisieNeural",
+        "gender": "Female",
+        "artist": "Maisie Neural",
+        "region": "United Kingdom",
+        "Language": "English (British)"
+      },
+      {
+        "voice": "en-GB-RyanNeural",
+        "gender": "Male",
+        "artist": "Ryan Neural",
+        "region": "United Kingdom",
+        "Language": "English (British)"
+      },
+      {
+        "voice": "en-GB-SoniaNeural",
+        "gender": "Female",
+        "artist": "Sonia Neural",
+        "region": "United Kingdom",
+        "Language": "English (British)"
+      },
+      {
+        "voice": "en-GB-ThomasNeural",
+        "gender": "Male",
+        "artist": "Thomas Neural",
+        "region": "United Kingdom",
+        "Language": "English (British)"
+      },
+      {
+        "voice": "en-HK-SamNeural",
+        "gender": "Male",
+        "artist": "Sam Neural",
+        "region": "Hong Kong",
+        "Language": "English (Hong Kong)"
+      },
+      {
+        "voice": "en-HK-YanNeural",
+        "gender": "Female",
+        "artist": "Yan Neural",
+        "region": "Hong Kong",
+        "Language": "English (Hong Kong)"
+      },
+      {
+        "voice": "en-IE-ConnorNeural",
+        "gender": "Male",
+        "artist": "Connor Neural",
+        "region": "Ireland",
+        "Language": "English (Irish)"
+      },
+      {
+        "voice": "en-IE-EmilyNeural",
+        "gender": "Female",
+        "artist": "Emily Neural",
+        "region": "Ireland",
+        "Language": "English (Irish)"
+      },
+      {
+        "voice": "en-IN-NeerjaExpressiveNeural",
+        "gender": "Female",
+        "artist": "Neerja Expressive Neural",
+        "region": "India",
+        "Language": "English (Indian)"
+      },
+      {
+        "voice": "en-IN-NeerjaNeural",
+        "gender": "Female",
+        "artist": "Neerja Neural",
+        "region": "India",
+        "Language": "English (Indian)"
+      },
+    {
+       "voice":"en-IN-PrabhatNeural",
+       "artist":"Prabhat Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"English"
+    },
+    {
+       "voice":"en-KE-AsiliaNeural",
+       "artist":"Asilia Neural",
+       "gender":"Female",
+       "region":"Kenya",
+       "Language":"English"
+    },
+    {
+       "voice":"en-KE-ChilembaNeural",
+       "artist":"Chilemba Neural",
+       "gender":"Male",
+       "region":"Kenya",
+       "Language":"English"
+    },
+    {
+       "voice":"en-NG-AbeoNeural",
+       "artist":"Abeo Neural",
+       "gender":"Male",
+       "region":"Nigeria",
+       "Language":"English"
+    },
+    {
+       "voice":"en-NG-EzinneNeural",
+       "artist":"Ezinne Neural",
+       "gender":"Female",
+       "region":"Nigeria",
+       "Language":"English"
+    },
+    {
+       "voice":"en-NZ-MitchellNeural",
+       "artist":"Mitchell Neural",
+       "gender":"Male",
+       "region":"New Zealand",
+       "Language":"English"
+    },
+    {
+       "voice":"en-NZ-MollyNeural",
+       "artist":"Molly Neural",
+       "gender":"Female",
+       "region":"New Zealand",
+       "Language":"English"
+    },
+    {
+       "voice":"en-PH-JamesNeural",
+       "artist":"James Neural",
+       "gender":"Male",
+       "region":"Philippines",
+       "Language":"English"
+    },
+    {
+       "voice":"en-PH-RosaNeural",
+       "artist":"Rosa Neural",
+       "gender":"Female",
+       "region":"Philippines",
+       "Language":"English"
+    },
+    {
+       "voice":"en-SG-LunaNeural",
+       "artist":"Luna Neural",
+       "gender":"Female",
+       "region":"Singapore",
+       "Language":"English"
+    },
+    {
+       "voice":"en-SG-WayneNeural",
+       "artist":"Wayne Neural",
+       "gender":"Male",
+       "region":"Singapore",
+       "Language":"English"
+    },
+    {
+       "voice":"en-TZ-ElimuNeural",
+       "artist":"Elimu Neural",
+       "gender":"Male",
+       "region":"Tanzania",
+       "Language":"English"
+    },
+    {
+       "voice":"en-TZ-ImaniNeural",
+       "artist":"Imani Neural",
+       "gender":"Female",
+       "region":"Tanzania",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-AnaNeural",
+       "artist":"Ana Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-AndrewMultilingualNeural",
+       "artist":"Andrew Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"Multilingual"
+    },
+    {
+       "voice":"en-US-AndrewNeural",
+       "artist":"Andrew Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-AriaNeural",
+       "artist":"Aria Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-AvaMultilingualNeural",
+       "artist":"Ava Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"Multilingual"
+    },
+    {
+       "voice":"en-US-AvaNeural",
+       "artist":"Ava Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-BrianMultilingualNeural",
+       "artist":"Brian Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"Multilingual"
+    },
+    {
+       "voice":"en-US-BrianNeural",
+       "artist":"Brian Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-ChristopherNeural",
+       "artist":"Christopher Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-EmmaMultilingualNeural",
+       "artist":"Emma Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"Multilingual"
+    },
+    {
+       "voice":"en-US-EmmaNeural",
+       "artist":"Emma Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-EricNeural",
+       "artist":"Eric Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-GuyNeural",
+       "artist":"Guy Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-JennyNeural",
+       "artist":"Jenny Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-MichelleNeural",
+       "artist":"Michelle Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-RogerNeural",
+       "artist":"Roger Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-US-SteffanNeural",
+       "artist":"Steffan Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"English"
+    },
+    {
+       "voice":"en-ZA-LeahNeural",
+       "artist":"Leah Neural",
+       "gender":"Female",
+       "region":"South Africa",
+       "Language":"English"
+    },
+    {
+       "voice":"en-ZA-LukeNeural",
+       "artist":"Luke Neural",
+       "gender":"Male",
+       "region":"South Africa",
+       "Language":"English"
+    },
+    {
+       "voice":"es-AR-ElenaNeural",
+       "artist":"Elena Neural",
+       "gender":"Female",
+       "region":"Argentina",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-AR-TomasNeural",
+       "artist":"Tomas Neural",
+       "gender":"Male",
+       "region":"Argentina",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-BO-MarceloNeural",
+       "artist":"Marcelo Neural",
+       "gender":"Male",
+       "region":"Bolivia",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-BO-SofiaNeural",
+       "artist":"Sofia Neural",
+       "gender":"Female",
+       "region":"Bolivia",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CL-CatalinaNeural",
+       "artist":"Catalina Neural",
+       "gender":"Female",
+       "region":"Chile",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CL-LorenzoNeural",
+       "artist":"Lorenzo Neural",
+       "gender":"Male",
+       "region":"Chile",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CO-GonzaloNeural",
+       "artist":"Gonzalo Neural",
+       "gender":"Male",
+       "region":"Colombia",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CO-SalomeNeural",
+       "artist":"Salome Neural",
+       "gender":"Female",
+       "region":"Colombia",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CR-JuanNeural",
+       "artist":"Juan Neural",
+       "gender":"Male",
+       "region":"Costa Rica",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CR-MariaNeural",
+       "artist":"Maria Neural",
+       "gender":"Female",
+       "region":"Costa Rica",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CU-BelkysNeural",
+       "artist":"Belkys Neural",
+       "gender":"Female",
+       "region":"Cuba",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-CU-ManuelNeural",
+       "artist":"Manuel Neural",
+       "gender":"Male",
+       "region":"Cuba",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-DO-EmilioNeural",
+       "artist":"Emilio Neural",
+       "gender":"Male",
+       "region":"Dominican Republic",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-DO-RamonaNeural",
+       "artist":"Ramona Neural",
+       "gender":"Female",
+       "region":"Dominican Republic",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-EC-AndreaNeural",
+       "artist":"Andrea Neural",
+       "gender":"Female",
+       "region":"Ecuador",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-EC-LuisNeural",
+       "artist":"Luis Neural",
+       "gender":"Male",
+       "region":"Ecuador",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-ES-AlvaroNeural",
+       "artist":"Alvaro Neural",
+       "gender":"Male",
+       "region":"Spain",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-ES-ElviraNeural",
+       "artist":"Elvira Neural",
+       "gender":"Female",
+       "region":"Spain",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-ES-XimenaNeural",
+       "artist":"Ximena Neural",
+       "gender":"Female",
+       "region":"Spain",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-GQ-JavierNeural",
+       "artist":"Javier Neural",
+       "gender":"Male",
+       "region":"Equatorial Guinea",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-GQ-TeresaNeural",
+       "artist":"Teresa Neural",
+       "gender":"Female",
+       "region":"Equatorial Guinea",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-GT-AndresNeural",
+       "artist":"Andres Neural",
+       "gender":"Male",
+       "region":"Guatemala",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-GT-MartaNeural",
+       "artist":"Marta Neural",
+       "gender":"Female",
+       "region":"Guatemala",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-HN-CarlosNeural",
+       "artist":"Carlos Neural",
+       "gender":"Male",
+       "region":"Honduras",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-HN-KarlaNeural",
+       "artist":"Karla Neural",
+       "gender":"Female",
+       "region":"Honduras",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-MX-DaliaNeural",
+       "artist":"Dalia Neural",
+       "gender":"Female",
+       "region":"Mexico",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-MX-JorgeNeural",
+       "artist":"Jorge Neural",
+       "gender":"Male",
+       "region":"Mexico",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-NI-FedericoNeural",
+       "artist":"Federico Neural",
+       "gender":"Male",
+       "region":"Nicaragua",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-NI-YolandaNeural",
+       "artist":"Yolanda Neural",
+       "gender":"Female",
+       "region":"Nicaragua",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PA-MargaritaNeural",
+       "artist":"Margarita Neural",
+       "gender":"Female",
+       "region":"Panama",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PA-RobertoNeural",
+       "artist":"Roberto Neural",
+       "gender":"Male",
+       "region":"Panama",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PE-AlexNeural",
+       "artist":"Alex Neural",
+       "gender":"Male",
+       "region":"Peru",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PE-CamilaNeural",
+       "artist":"Camila Neural",
+       "gender":"Female",
+       "region":"Peru",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PR-KarinaNeural",
+       "artist":"Karina Neural",
+       "gender":"Female",
+       "region":"Puerto Rico",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PR-VictorNeural",
+       "artist":"Victor Neural",
+       "gender":"Male",
+       "region":"Puerto Rico",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PY-MarioNeural",
+       "artist":"Mario Neural",
+       "gender":"Male",
+       "region":"Paraguay",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-PY-TaniaNeural",
+       "artist":"Tania Neural",
+       "gender":"Female",
+       "region":"Paraguay",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-SV-LorenaNeural",
+       "artist":"Lorena Neural",
+       "gender":"Female",
+       "region":"El Salvador",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-SV-RodrigoNeural",
+       "artist":"Rodrigo Neural",
+       "gender":"Male",
+       "region":"El Salvador",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-US-AlonsoNeural",
+       "artist":"Alonso Neural",
+       "gender":"Male",
+       "region":"United States",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-US-PalomaNeural",
+       "artist":"Paloma Neural",
+       "gender":"Female",
+       "region":"United States",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-UY-MateoNeural",
+       "artist":"Mateo Neural",
+       "gender":"Male",
+       "region":"Uruguay",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-UY-ValentinaNeural",
+       "artist":"Valentina Neural",
+       "gender":"Female",
+       "region":"Uruguay",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-VE-PaolaNeural",
+       "artist":"Paola Neural",
+       "gender":"Female",
+       "region":"Venezuela",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"es-VE-SebastianNeural",
+       "artist":"Sebastian Neural",
+       "gender":"Male",
+       "region":"Venezuela",
+       "Language":"Spanish"
+    },
+    {
+       "voice":"et-EE-AnuNeural",
+       "artist":"Anu Neural",
+       "gender":"Female",
+       "region":"Estonia",
+       "Language":"Estonian"
+    },
+    {
+       "voice":"et-EE-KertNeural",
+       "artist":"Kert Neural",
+       "gender":"Male",
+       "region":"Estonia",
+       "Language":"Estonian"
+    },
+    {
+       "voice":"fa-IR-DilaraNeural",
+       "artist":"Dilara Neural",
+       "gender":"Female",
+       "region":"Iran",
+       "Language":"Persian"
+    },
+    {
+       "voice":"fa-IR-FaridNeural",
+       "artist":"Farid Neural",
+       "gender":"Male",
+       "region":"Iran",
+       "Language":"Persian"
+    },
+    {
+       "voice":"fi-FI-HarriNeural",
+       "artist":"Harri Neural",
+       "gender":"Male",
+       "region":"Finland",
+       "Language":"Finnish"
+    },
+    {
+       "voice":"fi-FI-NooraNeural",
+       "artist":"Noora Neural",
+       "gender":"Female",
+       "region":"Finland",
+       "Language":"Finnish"
+    },
+    {
+       "voice":"fil-PH-AngeloNeural",
+       "artist":"Angelo Neural",
+       "gender":"Male",
+       "region":"Philippines",
+       "Language":"Filipino"
+    },
+    {
+       "voice":"fil-PH-BlessicaNeural",
+       "artist":"Blessica Neural",
+       "gender":"Female",
+       "region":"Philippines",
+       "Language":"Filipino"
+    },
+    {
+       "voice":"fr-BE-CharlineNeural",
+       "artist":"Charline Neural",
+       "gender":"Female",
+       "region":"Belgium",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-BE-GerardNeural",
+       "artist":"Gerard Neural",
+       "gender":"Male",
+       "region":"Belgium",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-CA-AntoineNeural",
+       "artist":"Antoine Neural",
+       "gender":"Male",
+       "region":"Canada",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-CA-JeanNeural",
+       "artist":"Jean Neural",
+       "gender":"Male",
+       "region":"Canada",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-CA-SylvieNeural",
+       "artist":"Sylvie Neural",
+       "gender":"Female",
+       "region":"Canada",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-CA-ThierryNeural",
+       "artist":"Thierry Neural",
+       "gender":"Male",
+       "region":"Canada",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-CH-ArianeNeural",
+       "artist":"Ariane Neural",
+       "gender":"Female",
+       "region":"Switzerland",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-CH-FabriceNeural",
+       "artist":"Fabrice Neural",
+       "gender":"Male",
+       "region":"Switzerland",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-FR-DeniseNeural",
+       "artist":"Denise Neural",
+       "gender":"Female",
+       "region":"France",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-FR-EloiseNeural",
+       "artist":"Eloise Neural",
+       "gender":"Female",
+       "region":"France",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-FR-HenriNeural",
+       "artist":"Henri Neural",
+       "gender":"Male",
+       "region":"France",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-FR-RemyMultilingualNeural",
+       "artist":"Remy Neural",
+       "gender":"Male",
+       "region":"France",
+       "Language":"French"
+    },
+    {
+       "voice":"fr-FR-VivienneMultilingualNeural",
+       "artist":"Vivienne Neural",
+       "gender":"Female",
+       "region":"France",
+       "Language":"French"
+    },
+    {
+       "voice":"ga-IE-ColmNeural",
+       "artist":"Colm Neural",
+       "gender":"Male",
+       "region":"Ireland",
+       "Language":"Irish"
+    },
+    {
+       "voice":"ga-IE-OrlaNeural",
+       "artist":"Orla Neural",
+       "gender":"Female",
+       "region":"Ireland",
+       "Language":"Irish"
+    },
+    {
+       "voice":"gl-ES-RoiNeural",
+       "artist":"Roi Neural",
+       "gender":"Male",
+       "region":"Spain",
+       "Language":"Galician"
+    },
+    {
+       "voice":"gl-ES-SabelaNeural",
+       "artist":"Sabela Neural",
+       "gender":"Female",
+       "region":"Spain",
+       "Language":"Galician"
+    },
+    {
+       "voice":"gu-IN-DhwaniNeural",
+       "artist":"Dhwani Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Gujarati"
+    },
+    {
+       "voice":"gu-IN-NiranjanNeural",
+       "artist":"Niranjan Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Gujarati"
+    },
+    {
+       "voice":"he-IL-AvriNeural",
+       "artist":"Avri Neural",
+       "gender":"Male",
+       "region":"Israel",
+       "Language":"Hebrew"
+    },
+    {
+       "voice":"he-IL-HilaNeural",
+       "artist":"Hila Neural",
+       "gender":"Female",
+       "region":"Israel",
+       "Language":"Hebrew"
+    },
+    {
+       "voice":"hi-IN-MadhurNeural",
+       "artist":"Madhur Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Hindi"
+    },
+    {
+       "voice":"hi-IN-SwaraNeural",
+       "artist":"Swara Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Hindi"
+    },
+    {
+       "voice":"it-IT-GiuseppeNeural",
+       "artist":"Giuseppe Neural",
+       "gender":"Male",
+       "region":"Italy",
+       "Language":"Italian"
+    },
+    {
+       "voice":"it-IT-IsabellaNeural",
+       "artist":"Isabella Neural",
+       "gender":"Female",
+       "region":"Italy",
+       "Language":"Italian"
+    },
+    {
+       "voice":"ja-JP-KeitaNeural",
+       "artist":"Keita Neural",
+       "gender":"Male",
+       "region":"Japan",
+       "Language":"Japanese"
+    },
+    {
+       "voice":"ja-JP-NanamiNeural",
+       "artist":"Nanami Neural",
+       "gender":"Female",
+       "region":"Japan",
+       "Language":"Japanese"
+    },
+    {
+       "voice":"jv-ID-DimasNeural",
+       "artist":"Dimas Neural",
+       "gender":"Male",
+       "region":"Indonesia",
+       "Language":"Javanese"
+    },
+    {
+       "voice":"jv-ID-SitiNeural",
+       "artist":"Siti Neural",
+       "gender":"Female",
+       "region":"Indonesia",
+       "Language":"Javanese"
+    },
+    {
+       "voice":"ka-GE-EkaNeural",
+       "artist":"Eka Neural",
+       "gender":"Female",
+       "region":"Georgia",
+       "Language":"Georgian"
+    },
+    {
+       "voice":"ka-GE-GiorgiNeural",
+       "artist":"Giorgi Neural",
+       "gender":"Male",
+       "region":"Georgia",
+       "Language":"Georgian"
+    },
+    {
+       "voice":"kk-KZ-AigulNeural",
+       "artist":"Aigul Neural",
+       "gender":"Female",
+       "region":"Kazakhstan",
+       "Language":"Kazakh"
+    },
+    {
+       "voice":"kk-KZ-DauletNeural",
+       "artist":"Daulet Neural",
+       "gender":"Male",
+       "region":"Kazakhstan",
+       "Language":"Kazakh"
+    },
+    {
+       "voice":"km-KH-PisethNeural",
+       "artist":"Piseth Neural",
+       "gender":"Male",
+       "region":"Cambodia",
+       "Language":"Khmer"
+    },
+    {
+       "voice":"km-KH-SreymomNeural",
+       "artist":"Sreymom Neural",
+       "gender":"Female",
+       "region":"Cambodia",
+       "Language":"Khmer"
+    },
+    {
+       "voice":"kn-IN-GaganNeural",
+       "artist":"Gagan Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Kannada"
+    },
+    {
+       "voice":"kn-IN-SapnaNeural",
+       "artist":"Sapna Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Kannada"
+    },
+    {
+       "voice":"ko-KR-HyunsuNeural",
+       "artist":"Hyunsu Neural",
+       "gender":"Male",
+       "region":"South Korea",
+       "Language":"Korean"
+    },
+    {
+       "voice":"ko-KR-InJoonNeural",
+       "artist":"InJoon Neural",
+       "gender":"Male",
+       "region":"South Korea",
+       "Language":"Korean"
+    },
+    {
+       "voice":"ko-KR-SunHiNeural",
+       "artist":"SunHi Neural",
+       "gender":"Female",
+       "region":"South Korea",
+       "Language":"Korean"
+    },
+    {
+       "voice":"lo-LA-ChanthavongNeural",
+       "artist":"Chanthavong Neural",
+       "gender":"Male",
+       "region":"Laos",
+       "Language":"Lao"
+    },
+    {
+       "voice":"lo-LA-KeomanyNeural",
+       "artist":"Keomany Neural",
+       "gender":"Female",
+       "region":"Laos",
+       "Language":"Lao"
+    },
+    {
+       "voice":"lt-LT-LeonasNeural",
+       "artist":"Leonas Neural",
+       "gender":"Male",
+       "region":"Lithuania",
+       "Language":"Lithuanian"
+    },
+    {
+       "voice":"lt-LT-OnaNeural",
+       "artist":"Ona Neural",
+       "gender":"Female",
+       "region":"Lithuania",
+       "Language":"Lithuanian"
+    },
+    {
+       "voice":"lv-LV-EveritaNeural",
+       "artist":"Everita Neural",
+       "gender":"Female",
+       "region":"Latvia",
+       "Language":"Latvian"
+    },
+    {
+       "voice":"lv-LV-NilsNeural",
+       "artist":"Nils Neural",
+       "gender":"Male",
+       "region":"Latvia",
+       "Language":"Latvian"
+    },
+    {
+       "voice":"mk-MK-AleksandarNeural",
+       "artist":"Aleksandar Neural",
+       "gender":"Male",
+       "region":"North Macedonia",
+       "Language":"Macedonian"
+    },
+    {
+       "voice":"mk-MK-MarijaNeural",
+       "artist":"Marija Neural",
+       "gender":"Female",
+       "region":"North Macedonia",
+       "Language":"Macedonian"
+    },
+    {
+       "voice":"ml-IN-MidhunNeural",
+       "artist":"Midhun Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Malayalam"
+    },
+    {
+       "voice":"ml-IN-SobhanaNeural",
+       "artist":"Sobhana Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Malayalam"
+    },
+    {
+       "voice":"mn-MN-BataaNeural",
+       "artist":"Bataa Neural",
+       "gender":"Male",
+       "region":"Mongolia",
+       "Language":"Mongolian"
+    },
+    {
+       "voice":"mn-MN-YesuiNeural",
+       "artist":"Yesui Neural",
+       "gender":"Female",
+       "region":"Mongolia",
+       "Language":"Mongolian"
+    },
+    {
+       "voice":"mr-IN-AarohiNeural",
+       "artist":"Aarohi Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Marathi"
+    },
+    {
+       "voice":"mr-IN-ManoharNeural",
+       "artist":"Manohar Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Marathi"
+    },
+    {
+       "voice":"ms-MY-OsmanNeural",
+       "artist":"Osman Neural",
+       "gender":"Male",
+       "region":"Malaysia",
+       "Language":"Malay"
+    },
+    {
+       "voice":"ms-MY-YasminNeural",
+       "artist":"Yasmin Neural",
+       "gender":"Female",
+       "region":"Malaysia",
+       "Language":"Malay"
+    },
+    {
+       "voice":"mt-MT-GraceNeural",
+       "artist":"Grace Neural",
+       "gender":"Female",
+       "region":"Malta",
+       "Language":"Maltese"
+    },
+    {
+       "voice":"mt-MT-JosephNeural",
+       "artist":"Joseph Neural",
+       "gender":"Male",
+       "region":"Malta",
+       "Language":"Maltese"
+    },
+    {
+       "voice":"my-MM-NilarNeural",
+       "artist":"Nilar Neural",
+       "gender":"Female",
+       "region":"Myanmar",
+       "Language":"Burmese"
+    },
+    {
+       "voice":"my-MM-ThihaNeural",
+       "artist":"Thiha Neural",
+       "gender":"Male",
+       "region":"Myanmar",
+       "Language":"Burmese"
+    },
+    {
+       "voice":"nb-NO-FinnNeural",
+       "artist":"Finn Neural",
+       "gender":"Male",
+       "region":"Norway",
+       "Language":"Norwegian"
+    },
+    {
+       "voice":"nb-NO-PernilleNeural",
+       "artist":"Pernille Neural",
+       "gender":"Female",
+       "region":"Norway",
+       "Language":"Norwegian"
+    },
+    {
+       "voice":"ne-NP-HemkalaNeural",
+       "artist":"Hemkala Neural",
+       "gender":"Female",
+       "region":"Nepal",
+       "Language":"Nepali"
+    },
+    {
+       "voice":"ne-NP-SagarNeural",
+       "artist":"Sagar Neural",
+       "gender":"Male",
+       "region":"Nepal",
+       "Language":"Nepali"
+    },
+    {
+       "voice":"nl-BE-ArnaudNeural",
+       "artist":"Arnaud Neural",
+       "gender":"Male",
+       "region":"Belgium",
+       "Language":"Dutch"
+    },
+    {
+       "voice":"nl-BE-DenaNeural",
+       "artist":"Dena Neural",
+       "gender":"Female",
+       "region":"Belgium",
+       "Language":"Dutch"
+    },
+    {
+       "voice":"nl-NL-ColetteNeural",
+       "artist":"Colette Neural",
+       "gender":"Female",
+       "region":"Netherlands",
+       "Language":"Dutch"
+    },
+    {
+       "voice":"nl-NL-FennaNeural",
+       "artist":"Fenna Neural",
+       "gender":"Female",
+       "region":"Netherlands",
+       "Language":"Dutch"
+    },
+    {
+       "voice":"nl-NL-MaartenNeural",
+       "artist":"Maarten Neural",
+       "gender":"Male",
+       "region":"Netherlands",
+       "Language":"Dutch"
+    },
+    {
+       "voice":"pl-PL-MarekNeural",
+       "artist":"Marek Neural",
+       "gender":"Male",
+       "region":"Poland",
+       "Language":"Polish"
+    },
+    {
+       "voice":"pl-PL-ZofiaNeural",
+       "artist":"Zofia Neural",
+       "gender":"Female",
+       "region":"Poland",
+       "Language":"Polish"
+    },
+    {
+       "voice":"ps-AF-GulNawazNeural",
+       "artist":"Gul Nawaz Neural",
+       "gender":"Male",
+       "region":"Afghanistan",
+       "Language":"Pashto"
+    },
+    {
+       "voice":"ps-AF-LatifaNeural",
+       "artist":"Latifa Neural",
+       "gender":"Female",
+       "region":"Afghanistan",
+       "Language":"Pashto"
+    },
+    {
+       "voice":"pt-BR-AntonioNeural",
+       "artist":"Antonio Neural",
+       "gender":"Male",
+       "region":"Brazil",
+       "Language":"Portuguese"
+    },
+    {
+       "voice":"pt-BR-FranciscaNeural",
+       "artist":"Francisca Neural",
+       "gender":"Female",
+       "region":"Brazil",
+       "Language":"Portuguese"
+    },
+    {
+       "voice":"pt-BR-ThalitaNeural",
+       "artist":"Thalita Neural",
+       "gender":"Female",
+       "region":"Brazil",
+       "Language":"Portuguese"
+    },
+    {
+       "voice":"pt-PT-DuarteNeural",
+       "artist":"Duarte Neural",
+       "gender":"Male",
+       "region":"Portugal",
+       "Language":"Portuguese"
+    },
+    {
+       "voice":"pt-PT-RaquelNeural",
+       "artist":"Raquel Neural",
+       "gender":"Female",
+       "region":"Portugal",
+       "Language":"Portuguese"
+    },
+    {
+       "voice":"ro-RO-AlinaNeural",
+       "artist":"Alina Neural",
+       "gender":"Female",
+       "region":"Romania",
+       "Language":"Romanian"
+    },
+    {
+       "voice":"ro-RO-EmilNeural",
+       "artist":"Emil Neural",
+       "gender":"Male",
+       "region":"Romania",
+       "Language":"Romanian"
+    },
+    {
+       "voice":"ru-RU-DmitryNeural",
+       "artist":"Dmitry Neural",
+       "gender":"Male",
+       "region":"Russia",
+       "Language":"Russian"
+    },
+    {
+       "voice":"ru-RU-SvetlanaNeural",
+       "artist":"Svetlana Neural",
+       "gender":"Female",
+       "region":"Russia",
+       "Language":"Russian"
+    },
+    {
+       "voice":"si-LK-SameeraNeural",
+       "artist":"Sameera Neural",
+       "gender":"Male",
+       "region":"Sri Lanka",
+       "Language":"Sinhala"
+    },
+    {
+       "voice":"si-LK-ThiliniNeural",
+       "artist":"Thilini Neural",
+       "gender":"Female",
+       "region":"Sri Lanka",
+       "Language":"Sinhala"
+    },
+    {
+       "voice":"sk-SK-LukasNeural",
+       "artist":"Lukas Neural",
+       "gender":"Male",
+       "region":"Slovakia",
+       "Language":"Slovak"
+    },
+    {
+       "voice":"sk-SK-ViktoriaNeural",
+       "artist":"Viktoria Neural",
+       "gender":"Female",
+       "region":"Slovakia",
+       "Language":"Slovak"
+    },
+    {
+       "voice":"sl-SI-PetraNeural",
+       "artist":"Petra Neural",
+       "gender":"Female",
+       "region":"Slovenia",
+       "Language":"Slovenian"
+    },
+    {
+       "voice":"sl-SI-RokNeural",
+       "artist":"Rok Neural",
+       "gender":"Male",
+       "region":"Slovenia",
+       "Language":"Slovenian"
+    },
+    {
+       "voice":"so-SO-MuuseNeural",
+       "artist":"Muuse Neural",
+       "gender":"Male",
+       "region":"Somalia",
+       "Language":"Somali"
+    },
+    {
+       "voice":"so-SO-UbaxNeural",
+       "artist":"Ubax Neural",
+       "gender":"Female",
+       "region":"Somalia",
+       "Language":"Somali"
+    },
+    {
+       "voice":"sq-AL-AnilaNeural",
+       "artist":"Anila Neural",
+       "gender":"Female",
+       "region":"Albania",
+       "Language":"Albanian"
+    },
+    {
+       "voice":"sq-AL-IlirNeural",
+       "artist":"Ilir Neural",
+       "gender":"Male",
+       "region":"Albania",
+       "Language":"Albanian"
+    },
+    {
+       "voice":"sr-RS-NicholasNeural",
+       "artist":"Nicholas Neural",
+       "gender":"Male",
+       "region":"Serbia",
+       "Language":"Serbian"
+    },
+    {
+       "voice":"sr-RS-SophieNeural",
+       "artist":"Sophie Neural",
+       "gender":"Female",
+       "region":"Serbia",
+       "Language":"Serbian"
+    },
+    {
+       "voice":"su-ID-JajangNeural",
+       "artist":"Jajang Neural",
+       "gender":"Male",
+       "region":"Indonesia",
+       "Language":"Sundanese"
+    },
+    {
+       "voice":"su-ID-TutiNeural",
+       "artist":"Tuti Neural",
+       "gender":"Female",
+       "region":"Indonesia",
+       "Language":"Sundanese"
+    },
+    {
+       "voice":"sv-SE-MattiasNeural",
+       "artist":"Mattias Neural",
+       "gender":"Male",
+       "region":"Sweden",
+       "Language":"Swedish"
+    },
+    {
+       "voice":"sv-SE-SofieNeural",
+       "artist":"Sofie Neural",
+       "gender":"Female",
+       "region":"Sweden",
+       "Language":"Swedish"
+    },
+    {
+       "voice":"sw-KE-RafikiNeural",
+       "artist":"Rafiki Neural",
+       "gender":"Male",
+       "region":"Kenya",
+       "Language":"Swahili"
+    },
+    {
+       "voice":"sw-KE-ZuriNeural",
+       "artist":"Zuri Neural",
+       "gender":"Female",
+       "region":"Kenya",
+       "Language":"Swahili"
+    },
+    {
+       "voice":"sw-TZ-DaudiNeural",
+       "artist":"Daudi Neural",
+       "gender":"Male",
+       "region":"Tanzania",
+       "Language":"Swahili"
+    },
+    {
+       "voice":"sw-TZ-RehemaNeural",
+       "artist":"Rehema Neural",
+       "gender":"Female",
+       "region":"Tanzania",
+       "Language":"Swahili"
+    },
+    {
+       "voice":"ta-IN-PallaviNeural",
+       "artist":"Pallavi Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"ta-IN-ValluvarNeural",
+       "artist":"Valluvar Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"ta-LK-KumarNeural",
+       "artist":"Kumar Neural",
+       "gender":"Male",
+       "region":"Sri Lanka",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"ta-LK-SaranyaNeural",
+       "artist":"Saranya Neural",
+       "gender":"Female",
+       "region":"Sri Lanka",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"ta-MY-KaniNeural",
+       "artist":"Kani Neural",
+       "gender":"Female",
+       "region":"Malaysia",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"ta-MY-SuryaNeural",
+       "artist":"Surya Neural",
+       "gender":"Male",
+       "region":"Malaysia",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"ta-SG-AnbuNeural",
+       "artist":"Anbu Neural",
+       "gender":"Male",
+       "region":"Singapore",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"ta-SG-VenbaNeural",
+       "artist":"Venba Neural",
+       "gender":"Female",
+       "region":"Singapore",
+       "Language":"Tamil"
+    },
+    {
+       "voice":"te-IN-MohanNeural",
+       "artist":"Mohan Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Telugu"
+    },
+    {
+       "voice":"te-IN-ShrutiNeural",
+       "artist":"Shruti Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Telugu"
+    },
+    {
+       "voice":"th-TH-NiwatNeural",
+       "artist":"Niwat Neural",
+       "gender":"Male",
+       "region":"Thailand",
+       "Language":"Thai"
+    },
+    {
+       "voice":"th-TH-PremwadeeNeural",
+       "artist":"Premwadee Neural",
+       "gender":"Female",
+       "region":"Thailand",
+       "Language":"Thai"
+    },
+    {
+       "voice":"tr-TR-AhmetNeural",
+       "artist":"Ahmet Neural",
+       "gender":"Male",
+       "region":"Turkey",
+       "Language":"Turkish"
+    },
+    {
+       "voice":"tr-TR-EmelNeural",
+       "artist":"Emel Neural",
+       "gender":"Female",
+       "region":"Turkey",
+       "Language":"Turkish"
+    },
+    {
+       "voice":"uk-UA-OstapNeural",
+       "artist":"Ostap Neural",
+       "gender":"Male",
+       "region":"Ukraine",
+       "Language":"Ukrainian"
+    },
+    {
+       "voice":"uk-UA-PolinaNeural",
+       "artist":"Polina Neural",
+       "gender":"Female",
+       "region":"Ukraine",
+       "Language":"Ukrainian"
+    },
+    {
+       "voice":"ur-IN-GulNeural",
+       "artist":"Gul Neural",
+       "gender":"Female",
+       "region":"India",
+       "Language":"Urdu"
+    },
+    {
+       "voice":"ur-IN-SalmanNeural",
+       "artist":"Salman Neural",
+       "gender":"Male",
+       "region":"India",
+       "Language":"Urdu"
+    },
+    {
+       "voice":"ur-PK-AsadNeural",
+       "artist":"Asad Neural",
+       "gender":"Male",
+       "region":"Pakistan",
+       "Language":"Urdu"
+    },
+    {
+       "voice":"ur-PK-UzmaNeural",
+       "artist":"Uzma Neural",
+       "gender":"Female",
+       "region":"Pakistan",
+       "Language":"Urdu"
+    },
+    {
+       "voice":"uz-UZ-MadinaNeural",
+       "artist":"Madina Neural",
+       "gender":"Female",
+       "region":"Uzbekistan",
+       "Language":"Uzbek"
+    },
+    {
+       "voice":"uz-UZ-SardorNeural",
+       "artist":"Sardor Neural",
+       "gender":"Male",
+       "region":"Uzbekistan",
+       "Language":"Uzbek"
+    },
+    {
+       "voice":"vi-VN-HoaiMyNeural",
+       "artist":"Hoai My Neural",
+       "gender":"Female",
+       "region":"Vietnam",
+       "Language":"Vietnamese"
+    },
+    {
+       "voice":"vi-VN-NamMinhNeural",
+       "artist":"Nam Minh Neural",
+       "gender":"Male",
+       "region":"Vietnam",
+       "Language":"Vietnamese"
+    },
+    {
+       "voice":"zh-CN-XiaoxiaoNeural",
+       "artist":"Xiaoxiao Neural",
+       "gender":"Female",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-CN-XiaoyiNeural",
+       "artist":"Xiaoyi Neural",
+       "gender":"Female",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-CN-YunjianNeural",
+       "artist":"Yunjian Neural",
+       "gender":"Male",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-CN-YunxiNeural",
+       "artist":"Yunxi Neural",
+       "gender":"Male",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-CN-YunxiaNeural",
+       "artist":"Yunxia Neural",
+       "gender":"Male",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-CN-YunyangNeural",
+       "artist":"Yunyang Neural",
+       "gender":"Male",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-CN-liaoning-XiaobeiNeural",
+       "artist":"Xiaobei Neural",
+       "gender":"Female",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-CN-shaanxi-XiaoniNeural",
+       "artist":"Xiaoni Neural",
+       "gender":"Female",
+       "region":"China",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-HK-HiuGaaiNeural",
+       "artist":"Hiu Gaai Neural",
+       "gender":"Female",
+       "region":"Hong Kong",
+       "Language":"Cantonese"
+    },
+    {
+       "voice":"zh-HK-HiuMaanNeural",
+       "artist":"Hiu Maan Neural",
+       "gender":"Female",
+       "region":"Hong Kong",
+       "Language":"Cantonese"
+    },
+    {
+       "voice":"zh-HK-WanLungNeural",
+       "artist":"Wan Lung Neural",
+       "gender":"Male",
+       "region":"Hong Kong",
+       "Language":"Cantonese"
+    },
+    {
+       "voice":"zh-TW-HsiaoChenNeural",
+       "artist":"Hsiao Chen Neural",
+       "gender":"Female",
+       "region":"Taiwan",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-TW-HsiaoYuNeural",
+       "artist":"Hsiao Yu Neural",
+       "gender":"Female",
+       "region":"Taiwan",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zh-TW-YunJheNeural",
+       "artist":"Yun Jhe Neural",
+       "gender":"Male",
+       "region":"Taiwan",
+       "Language":"Chinese"
+    },
+    {
+       "voice":"zu-ZA-ThandoNeural",
+       "artist":"Thando Neural",
+       "gender":"Female",
+       "region":"South Africa",
+       "Language":"Zulu"
+    },
+    {
+       "voice":"zu-ZA-ThembaNeural",
+       "artist":"Themba Neural",
+       "gender":"Male",
+       "region":"South Africa",
+       "Language":"Zulu"
+    }
+ ]

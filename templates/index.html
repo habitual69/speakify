@@ -20,59 +20,11 @@
                 <label for="voiceSelect" class="block text-lg font-medium text-gray-700">Select Voice:</label>
                 <select id="voiceSelect" name="voice" class="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
                     <!-- Options -->
-                    <option value="en-GB-LibbyNeural">Libby Neural (English-GB)</option>
-                    <option value="en-GB-MaisieNeural">Maisie Neural (English-GB)</option>
-                    <option value="en-GB-RyanNeural">Ryan Neural (English-GB)</option>
-                    <option value="en-GB-SoniaNeural">Sonia Neural (English-GB)</option>
-                    <option value="en-GB-ThomasNeural">Thomas Neural (English-GB)</option>
-                    <option value="en-AU-NatashaNeural">Natasha Neural (English-AU)</option>
-                    <option value="en-AU-WilliamNeural">William Neural (English-AU)</option>
-                    <option value="en-CA-ClaraNeural">Clara Neural (English-CA)</option>
-                    <option value="en-CA-LiamNeural">Liam Neural (English-CA)</option>
-                    <option value="en-HK-SamNeural">Sam Neural (English-HK)</option>
-                    <option value="en-HK-YanNeural">Yan Neural (English-HK)</option>
-                    <option value="en-IE-ConnorNeural">Connor Neural (English-IE)</option>
-                    <option value="en-IE-EmilyNeural">Emily Neural (English-IE)</option>
-                    <option value="en-IN-NeerjaExpressiveNeural">Neerja Expressive Neural (English-IN)</option>
-                    <option value="en-IN-NeerjaNeural">Neerja Neural (English-IN)</option>
-                    <option value="en-IN-PrabhatNeural">PrabhatNeural (English-IN)</option>
-                    <option value="en-US-AriaNeural">AriaNeural (English-US)</option>
-                    <option value="en-US-ChristopherNeural">Christopher Neural (English-US)</option>
-                    <option value="en-US-EricNeural">Eric Neural (English-US)</option>
-                    <option value="en-US-GuyNeural">Guy Neural (English-US)</option>
-                    <option value="en-US-JennyNeural">Jenny Neural (English-US)</option>
-                    <option value="en-US-MichelleNeural">Michelle Neural (English-US)</option>
-                    <option value="en-US-RogerNeural">Roger Neural (English-US)</option>
-                    <option value="en-US-SteffanNeural">Steffan Neural (English-US)</option>
-                    <option value="en-ZA-LeahNeural">Leah Neural (English-ZA)</option>
-                    <option value="en-ZA-LukeNeural">Luke Neural (English-ZA)</option>
-                    <option value="hi-IN-MadhurNeural">Madhur Neural (Hindi-IN)</option>
-                    <option value="hi-IN-SwaraNeural">Swara Neural (Hindi-IN)</option>
-                    <option value="bn-BD-PradeepNeural">Pradeep Neural (Bengali-IN)</option>
-                    <option value="bn-IN-BashkarNeural">Bashkar Neural (Bengali-IN)</option>
-                    <option value="bn-IN-TanishaaNeural">Tanishaa Neural (Bengali-IN)</option>
-                    <option value="gu-IN-AaravNeural">Aarav Neural (Gujarati-IN)</option>
-                    <option value="gu-IN-PranavNeural">Pranav Neural (Gujarati-IN)</option>
-                    <option value="gu-IN-SaanviNeural">Saanvi Neural (Gujarati-IN)</option>
-                    <option value="kn-IN-AaravNeural">Aarav Neural (Kannada-IN)</option>
-                    <option value="kn-IN-PranavNeural">Pranav Neural (Kannada-IN)</option>
-                    <option value="kn-IN-SaanviNeural">Saanvi Neural (Kannada-IN)</option>
-                    <option value="ml-IN-AaravNeural">Aarav Neural (Malayalam-IN)</option>
-                    <option value="ml-IN-PranavNeural">Pranav Neural (Malayalam-IN)</option>
-                    <option value="ml-IN-SaanviNeural">Saanvi Neural (Malayalam-IN)</option>
-                    <option value="mr-IN-AaravNeural">Aarav Neural (Marathi-IN)</option>
-                    <option value="mr-IN-PranavNeural">Pranav Neural (Marathi-IN)</option>
-                    <option value="mr-IN-SaanviNeural">Saanvi Neural (Marathi-IN)</option>
-                    <option value="ta-IN-AaravNeural">Aarav Neural (Tamil-IN)</option>
-                    <option value="ta-IN-PallaviNeural">Pallavi Neural (Tamil-IN)</option>
-                    <option value="ta-IN-PranavNeural">Pranav Neural (Tamil-IN)</option>
-                    <option value="ta-IN-SaanviNeural">Saanvi Neural (Tamil-IN)</option>
-                    <option value="te-IN-AaravNeural">Aarav Neural (Telugu-IN)</option>
-                    <option value="te-IN-PallaviNeural">Pallavi Neural (Telugu-IN)</option>
-                    <option value="te-IN-PranavNeural">Pranav Neural (Telugu-IN)</option>
-                    <option value="te-IN-SaanviNeural">Saanvi Neural (Telugu-IN)</option>
-                    
+                    {% for entry in voice_data %}
+                    <option value="{{ entry.voice }}">{{ entry.artist }} - {{ entry.region }} / {{ entry.Language }} - {{ entry.gender }}</option>
+                    {% endfor %}
                 </select>
+                
             </div>
             <div class="form-group">
                 <label for="textInput" class="block text-lg font-medium text-gray-700">Enter Text:</label>
